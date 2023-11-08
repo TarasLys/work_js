@@ -1,0 +1,29 @@
+.title {
+font-size: 12px;
+}
+
+.text {
+font-size: 10px;
+}
+
+.list_item {
+    list-style: none;
+}
+
+.div_list {
+    display: flex;
+    flex-direction: row;
+}
+
+.list {
+    display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 20px;
+}
+
+.style_btn {
+    width: 100px;
+    height: 25px;
+    margin-left: 200px;
+}
